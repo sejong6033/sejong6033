@@ -19,11 +19,20 @@
 | **[드로잉 로봇]**    | 그림그리는 로봇             | Python, OpenCV , Nano Banana |
 | **[도금 자동화 로봇]** | yolo를 이용한 pick&place | Python, OpenCV , YOLOv8      |
 
+<div align="center">
+  <h3>📈 Statistics</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sejong6033&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  
+  <a href="https://solved.ac/tpwhd6033">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpwhd6033" height="150" alt="solved.ac tier"/>
+  </a>
+</div>
+
 ## 🔗 Contact
-<a href="mailto:[sejong6033@gmail.com]">
-  <img src="https://img.shields.io/badge/Email-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:[tpwhd6033@gmail.com]">
+  <img src="https://img.shields.io/badge/tpwhd6033@gmail.com-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 <a href="tel:[010-3349-6033]">
-  <img src="https://img.shields.io/badge/Phone-Call_Me-success?style=flat-square&logo=WhatsApp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/01033496033-Call_Me-success?style=flat-square&logo=WhatsApp&logoColor=white"/>
 </a>
