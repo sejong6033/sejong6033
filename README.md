@@ -25,6 +25,7 @@
 | **[드로잉 로봇]**    | 그림그리는 로봇             | Python, OpenCV , Nano Banana |
 | **[도금 자동화 로봇]** | yolo를 이용한 pick&place | Python, OpenCV , YOLOv8      |
 
+git revert는 했니?
 <div align="center">
   <h3>📈 Statistics</h3>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sejong6033&show_icons=true&theme=radical" height="150" alt="stats graph" />
