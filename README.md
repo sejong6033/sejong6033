@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello!%20I'm%20Se-jong&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=353535&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Backend+Developer;AI+%26+Data+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=353535&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
   <h3>🌱 매일 성장하는 개발자, 차세종입니다.</h3>
 </div>
@@ -46,9 +46,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sejong6033">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsejong6033&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%" />
 </div>
